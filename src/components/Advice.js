@@ -6,6 +6,7 @@ import { AiFillStar } from "react-icons/ai";
 import { BsArrowRight } from "react-icons/bs";
 
 function Advice() {
+  
   useEffect(() => {
     const handleResize = () => {
       setSlidesPerView(getInitialSlidesPerView());
