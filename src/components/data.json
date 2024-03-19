@@ -1,0 +1,304 @@
+[
+    {
+        "id":1,
+        "img":[
+            "../images/b1.png",
+            "../images/b2.png",
+            "../images/b3.png",
+            "../images/b4.png",
+            "../images/b5.png",
+            "../images/b6.png",
+            "../images/b7.png",
+            "../images/b8.png"
+        ],
+        "title":"Mərdəkan Qəsəbəsi",
+        "price":"590 000$"
+    },
+    {
+        "id":2,
+        "img":[
+            "../images/a1.png",
+            "../images/a2.png",
+            "../images/a3.png",
+            "../images/a4.png",
+            "../images/a5.png"
+        ],
+        "title":"Nardaran Qəsəbəsi",
+        "price":"245 000$"
+    },
+    {
+        "id":3,
+        "img":[
+            "../images/c1.png",
+            "../images/c2.png",
+            "../images/c3.png",
+            "../images/c4.png",
+            "../images/c5.png",
+            "../images/c6.png"
+        ],
+        "title":"Mərdəkan Qəsəbəsi",
+        "price":"980 000$"
+    },
+    {
+        "id":4,
+        "img":[
+            "../images/d1.png",
+            "../images/d2.png",
+            "../images/d3.png",
+            "../images/d4.png",
+            "../images/d5.png",
+            "../images/d6.png",
+            "../images/d7.png",
+            "../images/d8.png",
+            "../images/d9.png",
+            "../images/d10.png",
+            "../images/d11.png",
+            "../images/d12.png",
+            "../images/d13.png",
+            "../images/d14.png"
+        ],
+        "title":"Nəsimi Rayonu",
+        "price":"1 190 000$"
+    },
+    {
+        "id":5,
+        "img":[
+            "../images/e1.png",
+            "../images/e2.png",
+            "../images/e3.png",
+            "../images/e4.png",
+            "../images/e5.png",
+            "../images/e6.png",
+            "../images/e7.png"
+        ],
+        "title":"Mərdəkan Qəsəbəsi",
+        "price":"370 000$"
+    },
+    {
+        "id":6,
+        "img":[
+            "../images/f1.png",
+            "../images/f2.png",
+            "../images/f3.png",
+            "../images/f4.png",
+            "../images/f5.png",
+            "../images/f6.png"
+        ],
+        "title":"Mərdəkan Qəsəbəsi",
+        "price":"485 000$"
+    },
+    {
+        "id":7,
+        "img":[
+            "../images/g1.png",
+            "../images/g2.png",
+            "../images/g3.png",
+            "../images/g4.png",
+            "../images/g5.png",
+            "../images/g6.png",
+            "../images/g7.png",
+            "../images/g8.png",
+            "../images/g9.png",
+            "../images/g10.png",
+            "../images/g11.png",
+            "../images/g12.png",
+            "../images/g13.png",
+            "../images/g14.png",
+            "../images/g15.png",
+            "../images/g16.png",
+            "../images/g17.png",
+            "../images/g18.png"
+        ],
+        "title":"Nəsimi Rayonu",
+        "price":"2 000 000$"
+    },
+    {
+        "id":8,
+        "img":[
+            "../images/h1.png",
+            "../images/h2.png",
+            "../images/h3.png",
+            "../images/h4.png",
+            "../images/h5.png",
+            "../images/h6.png",
+            "../images/h7.png",
+            "../images/h8.png",
+            "../images/h9.png",
+            "../images/h10.png"
+        ],
+        "title":"Nərimanov Rayonu",
+        "price":"1 000 000$"
+    },
+    {
+        "id":10,
+        "img":[
+            "../images/j1.png",
+            "../images/j2.png",
+            "../images/j3.png",
+            "../images/j4.png",
+            "../images/j5.png",
+            "../images/j6.png",
+            "../images/j7.png",
+            "../images/j8.png",
+            "../images/j9.png",
+            "../images/j10.png",
+            "../images/j11.png",
+            "../images/j12.png",
+            "../images/j13.png",
+            "../images/j14.png",
+            "../images/j15.png"
+        ],
+        "title":"Buzovna Qəsəbəsi",
+        "price":"5 500 000$"
+    },
+    {
+        "id":10,
+        "img":[
+            "../images/g1.png",
+            "../images/g2.png",
+            "../images/g3.png",
+            "../images/g4.png",
+            "../images/g5.png",
+            "../images/g6.png",
+            "../images/g7.png",
+            "../images/g8.png",
+            "../images/g9.png",
+            "../images/g10.png",
+            "../images/g11.png",
+            "../images/g12.png",
+            "../images/g13.png",
+            "../images/g14.png",
+            "../images/g15.png",
+            "../images/g16.png",
+            "../images/g17.png",
+            "../images/g18.png"
+        ],
+        "title":"Nəsimi Rayonu",
+        "price":"2 000 000$"
+    },
+    {
+        "id":11,
+        "img":[
+            "../images/g1.png",
+            "../images/g2.png",
+            "../images/g3.png",
+            "../images/g4.png",
+            "../images/g5.png",
+            "../images/g6.png",
+            "../images/g7.png",
+            "../images/g8.png",
+            "../images/g9.png",
+            "../images/g10.png",
+            "../images/g11.png",
+            "../images/g12.png",
+            "../images/g13.png",
+            "../images/g14.png",
+            "../images/g15.png",
+            "../images/g16.png",
+            "../images/g17.png",
+            "../images/g18.png"
+        ],
+        "title":"Nəsimi Rayonu",
+        "price":"2 000 000$"
+    },
+    {
+        "id":12,
+        "img":[
+            "../images/g1.png",
+            "../images/g2.png",
+            "../images/g3.png",
+            "../images/g4.png",
+            "../images/g5.png",
+            "../images/g6.png",
+            "../images/g7.png",
+            "../images/g8.png",
+            "../images/g9.png",
+            "../images/g10.png",
+            "../images/g11.png",
+            "../images/g12.png",
+            "../images/g13.png",
+            "../images/g14.png",
+            "../images/g15.png",
+            "../images/g16.png",
+            "../images/g17.png",
+            "../images/g18.png"
+        ],
+        "title":"Nəsimi Rayonu",
+        "price":"2 000 000$"
+    },
+    {
+        "id":13,
+        "img":[
+            "../images/g1.png",
+            "../images/g2.png",
+            "../images/g3.png",
+            "../images/g4.png",
+            "../images/g5.png",
+            "../images/g6.png",
+            "../images/g7.png",
+            "../images/g8.png",
+            "../images/g9.png",
+            "../images/g10.png",
+            "../images/g11.png",
+            "../images/g12.png",
+            "../images/g13.png",
+            "../images/g14.png",
+            "../images/g15.png",
+            "../images/g16.png",
+            "../images/g17.png",
+            "../images/g18.png"
+        ],
+        "title":"Nəsimi Rayonu",
+        "price":"2 000 000$"
+    },
+    {
+        "id":14,
+        "img":[
+            "../images/g1.png",
+            "../images/g2.png",
+            "../images/g3.png",
+            "../images/g4.png",
+            "../images/g5.png",
+            "../images/g6.png",
+            "../images/g7.png",
+            "../images/g8.png",
+            "../images/g9.png",
+            "../images/g10.png",
+            "../images/g11.png",
+            "../images/g12.png",
+            "../images/g13.png",
+            "../images/g14.png",
+            "../images/g15.png",
+            "../images/g16.png",
+            "../images/g17.png",
+            "../images/g18.png"
+        ],
+        "title":"Nəsimi Rayonu",
+        "price":"2 000 000$"
+    },
+    {
+        "id":15,
+        "img":[
+            "../images/g1.png",
+            "../images/g2.png",
+            "../images/g3.png",
+            "../images/g4.png",
+            "../images/g5.png",
+            "../images/g6.png",
+            "../images/g7.png",
+            "../images/g8.png",
+            "../images/g9.png",
+            "../images/g10.png",
+            "../images/g11.png",
+            "../images/g12.png",
+            "../images/g13.png",
+            "../images/g14.png",
+            "../images/g15.png",
+            "../images/g16.png",
+            "../images/g17.png",
+            "../images/g18.png"
+        ],
+        "title":"Nəsimi Rayonu",
+        "price":"2 000 000$"
+    }
+]

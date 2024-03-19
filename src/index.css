@@ -1,0 +1,229 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url("https://fonts.googleapis.com/css2?family=Fira+Sans+Condensed:ital,wght@0,200;0,300;0,400;0,500;0,600;1,200;1,300;1,500&family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Open Sans", sans-serif;
+}
+/* main {
+  background-color: #fff;
+} */
+.header{
+    background: linear-gradient(249deg, rgba(255, 255, 255, 0.80) 12.52%, rgba(246, 243, 255, 0.80) 58.19%);
+}
+.manage{
+    border-radius: 20px;
+ background: linear-gradient(90deg, #CCDFE8 0%, #F5DCC2 100%); 
+  margin: 0 auto;
+}
+
+@media screen and (max-width: 320px) {
+  .rentbtn {
+    width: 100%;
+  }
+}
+
+select[data-icon] {
+  padding-left: 25px; /* Adjust the padding as needed */
+}
+
+select[data-icon]::before {
+  content: '\1F504'; /* Unicode character for the power reset icon */
+  font-family: 'Segoe UI Symbol'; /* Adjust the font family if needed */
+  margin-right: 5px; /* Adjust the margin as needed */
+}
+
+
+.pho{
+    top: 0;
+    right: 10px;
+}
+
+/*Slide*/
+#app {
+  height: 100%;
+}
+html,
+body {
+  position: relative;
+  height: 100%;
+}
+
+body {
+  background: #fff;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color: #000;
+  margin: 0;
+  padding: 0;
+}
+
+.swiper {
+  width: 100%;
+  height: 100%;
+}
+
+
+.swiper-slide {
+  border-radius: 22px;
+  font-size: 18px;
+ 
+
+  /* Center slide text vertically */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+
+.down{
+  background: linear-gradient(249deg, rgba(255, 255, 255, 0.80) 12.52%, rgba(246, 243, 255, 0.80) 58.19%);
+}
+
+
+
+
+.shadow-custom {
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.my-swiper .swiper-slide img {
+  opacity: 0;
+}
+.my-swiper .swiper-slide-active img {
+  opacity: 1;
+}
+.card:hover .anima {
+  transform: scale(0.9);
+  transition: transform 0.3s ease-in-out border-radius 0.3 ease-in-out;
+  border-radius: 20px;
+}
+.anima {
+  transition: transform 0.3s ease-in-out, border-radius 0.3s ease-in-out;
+}
+.card:hover .heart {
+  background-color: lime;
+  color: red;
+}
+/* LEFT RIGHT BUTTONS */
+.card .right-button,
+.card .left-button {
+  display: none;
+}
+.card:hover .right-button,
+.card:hover .left-button {
+  display: block;
+}
+/* ///////////////// */
+*, *:before, *:after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+
+
+.submit{
+  background: linear-gradient(259deg, #0572D7 2.52%, #1D9EE7 100.23%);
+}
+
+.form-group {
+  display: block;
+  margin-bottom: 15px;
+}
+
+.form-group input {
+  padding: 0;
+  height: initial;
+  width: initial;
+  margin-bottom: 0;
+  display: none;
+  cursor: pointer;
+}
+
+.form-group label {
+  position: relative;
+  cursor: pointer;
+}
+
+.form-group label:before {
+  content:'';
+ 
+  background-color: transparent;
+  border: 2px solid #0079bf;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05), inset 0px -15px 10px -12px rgba(0, 0, 0, 0.05);
+  padding: 10px;
+  display: inline-block;
+  position: relative;
+  vertical-align: middle;
+  cursor: pointer;
+  margin-right: 5px;
+}
+
+.form-group input:checked + label:after {
+  content: '';
+  display: block;
+  position: absolute;
+  top: 2px;
+  left: 9px;
+  width: 6px;
+  height: 14px;
+  border: solid #0079bf;
+  border-width: 0 2px 2px 0;
+  transform: rotate(45deg);
+}
+
+.signin{
+  background: linear-gradient(221deg, #EFF9FF 23.3%, #FFF 70.45%, #F6F3FF 96.31%);
+}
+.main-register{
+  background: linear-gradient(221deg, #EFF9FF 23.3%, #FFF 70.45%, #F6F3FF 96.31%);
+}
+.acc{
+  color: var(--utility-300, #9BA5B5);
+}
+.buttonone{
+  border: 1px solid #E5E1FF;
+}
+
+.skeleton {
+  opacity: 0.7;
+  animation: skeleton-loading 1s linear infinite alternate;
+}
+
+@keyframes skeleton-loading {
+  0% {
+    background-color: hsl(200, 20%, 70%);
+  }
+  100% {
+    background-color: hsl(200, 20%, 95%);
+  }
+}
+.skeleton-swiper {
+  opacity: 0.7;
+  animation: skeleton-swiper 1s linear infinite alternate;
+}
+
+@keyframes skeleton-swiper {
+  0% {
+    background-color: hsl(200, 30%, 80%);
+  }
+  100% {
+    background-color: hsl(200, 40%, 90%);
+  }
+}
+
+.textarea{
+  height: calc(100vh - 300px);
+}
